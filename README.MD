@@ -4,18 +4,15 @@ A clean, portfolio‑ready project for analysing market‑data usage logs using 
 
 ## 📁 Project Structure
 
-market-data-usage-analyser/
-│
-├── data/
-│   └── usage_log.csv
-│
-├── src/
-│   └── analyse_usage.py
-│
-├── tests/
-│   └── test_basic.py
-│
-└── README.md
+market-data-usage-analyser/ 
+│ ├── data/ │   
+      └── usage_log.csv 
+│ ├── src/ 
+│   └── analyse_usage.py 
+│ ├── tests/ 
+│   └── test_basic.py 
+│ └── README.md
+
 
 ## 📄 Dataset Overview
 
@@ -89,4 +86,5 @@ This project demonstrates:
 - Reproducible workflows
 
 It is not based on any real client or proprietary data.
+
 
